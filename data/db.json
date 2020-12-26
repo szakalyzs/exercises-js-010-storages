@@ -1,0 +1,12 @@
+{
+    "users": [
+        {"firstName": "Peter", "lastName":"Sellers"},
+        {"firstName": "Jim", "lastName":"Carry"},
+        {"firstName": "Bud", "lastName":"Spencer"},
+        {"firstName": "Terence", "lastName":"Hill"},
+        {"firstName": "Charlie", "lastName":"Chaplin"},
+        {"firstName": "Loui", "lastName":"de Funes"},
+        {"firstName": "Adam", "lastName":"Sandler"},
+        {"firstName": "Ben", "lastName":"Stiller"}
+    ]
+}
